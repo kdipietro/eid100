@@ -1,23 +1,46 @@
+<!-- THIS HTML CODE WAS WRITTED BY KRIS DI PIETRO FOR JAIGRIS HODSON. -->
+<!-- EID100, RYERSON UNIVERSITY, APRIL 2ND 2013 --> 
 <!DOCTYPE html>
   <html>
     <head> 
       <title>Kdipietro Homepage</title>
     </head>
-    <body>
+    <body style="background-color: orange">
       <h1 style="font-family: Garamond; text-align: center"><b>Kris Di Pietro's Awesome EID100 Webpage from the 90's!</b></h1>
       <h3>About:</h3>
       <p>Hell everyone and welcome to my website. This website is the spawn of a simple HTML and CSS project for my EID100 class at Ryerson University.</p>
-      <p>Please feel free to take a look around and enjoy the very minimal pages that you see before you.</p>
+      <p>Please feel free to read this single page in awe.</p>
       <h3>Background:</h3>
       <p>My name is Kris Di Pietro, and I am a 4th year undergraduate student are Ryerson university. I am in the performance production program and I intend to graduate this year.</p>
       <ul>
         <li> Top reasons for making your own awesome website!</li>
           <ol>
-            <li>You can spend all your waking hours on <a style="color: green; href="http://www.codeacademy.com"><b>Code Academy</b></a> learning how to use HTML!</li>
+            <li>You can spend all your waking hours on <a style="color: green" href="http://www.codeacademy.com"><b>Code Academy</b></a> learning how to use HTML!</li>
             <li>You can use your website to impress your friends and family. Or even your business partners!</li>
             <li>Or perhaps your prof just told you to... But even though your list items sound mildly grumpy, you are actually enjoying learning how to code and are only grumpy because you were up until 5am working on another project for that same prof! Go you!</li>
           </ol>
       </ul>
+      <table>
+      <thead>
+        <tr>
+          <th colspan="4">This is an example of a table.</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="text-align: center">This</td>
+          <td style="text-align: center">Is</td>
+          <td style="text-align: center">A</td>
+          <td style="text-align: center">Table!</td>
+        </tr>
+        <tr>
+          <td style="text-align: center">One</td>
+          <td style="text-align: center">Two</td>
+          <td style="text-align: center">Three</td>
+          <td style="text-align: center">Four</td>
+        </tr>
+      </tbody>
+      </table>
       <p>Click on the camera below to be redirected to my EID100 wiki page! Or click <a href="http://eid100-w2013.wikispaces.com/k_dipietro">here</a>!</p>
       <a href="http://eid100-w2013.wikispaces.com/k_dipietro"><img src="http://www.clker.com/cliparts/i/l/9/W/l/m/camera-icon-md.png" /></a>
     </body>
