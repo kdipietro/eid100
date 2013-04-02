@@ -1,16 +1,24 @@
 <!DOCTYPE html>
   <html>
     <head> 
-      <title>Kris Di Pietro's Awesome EID100 Webpage from the 90's!</title>
+      <title>Kdipietro Homepage</title>
     </head>
     <body>
-      <h1><b>Kris Di Pietro's Awesome EID100 Webpage from the 90's!</b></h1>
+      <h1 style="font-family: Garamond; text-align: center"><b>Kris Di Pietro's Awesome EID100 Webpage from the 90's!</b></h1>
       <h3>About:</h3>
       <p>Hell everyone and welcome to my website. This website is the spawn of a simple HTML and CSS project for my EID100 class at Ryerson University.</p>
       <p>Please feel free to take a look around and enjoy the very minimal pages that you see before you.</p>
       <h3>Background:</h3>
       <p>My name is Kris Di Pietro, and I am a 4th year undergraduate student are Ryerson university. I am in the performance production program and I intend to graduate this year.</p>
-      <p>Click on the photo of me below to be redirected to my EID100 wiki page! Or click <a href="http://eid100-w2013.wikispaces.com/k_dipietro">here</a>!</p>
-      <a href="http://eid100-w2013.wikispaces.com/k_dipietro"><img src="https://twimg0-a.akamaihd.net/profile_images/1439426876/DSC_4406_1_1.jpg" /></a>
+      <ul>
+        <li> Top reasons for making your own awesome website!</li>
+          <ol>
+            <li>You can spend all your waking hours on <a style="color: green; href="http://www.codeacademy.com"><b>Code Academy</b></a> learning how to use HTML!</li>
+            <li>You can use your website to impress your friends and family. Or even your business partners!</li>
+            <li>Or perhaps your prof just told you to... But even though your list items sound mildly grumpy, you are actually enjoying learning how to code and are only grumpy because you were up until 5am working on another project for that same prof! Go you!</li>
+          </ol>
+      </ul>
+      <p>Click on the camera below to be redirected to my EID100 wiki page! Or click <a href="http://eid100-w2013.wikispaces.com/k_dipietro">here</a>!</p>
+      <a href="http://eid100-w2013.wikispaces.com/k_dipietro"><img src="http://www.clker.com/cliparts/i/l/9/W/l/m/camera-icon-md.png" /></a>
     </body>
 </html>
